@@ -1,0 +1,7 @@
+# 3. Nested repeats, rests and lower octave
+tempo 90
+repeat 2 {
+  .dha .ni sa:2 -
+  repeat 3 { ga re }
+  sa:2 -:2
+}
