@@ -1,0 +1,18 @@
+000 TEMPO 120
+001 PLAY sa oct=0 beats=1
+002 PLAY re oct=0 beats=1
+003 PLAY ga oct=0 beats=1
+004 PLAY ma oct=0 beats=1
+005 PLAY pa oct=0 beats=1
+006 PLAY dha oct=0 beats=1
+007 PLAY ni oct=0 beats=1
+008 PLAY sa oct=+1 beats=1
+009 PLAY sa oct=+1 beats=1
+010 PLAY ni oct=0 beats=1
+011 PLAY dha oct=0 beats=1
+012 PLAY pa oct=0 beats=1
+013 PLAY ma oct=0 beats=1
+014 PLAY ga oct=0 beats=1
+015 PLAY re oct=0 beats=1
+016 PLAY sa oct=0 beats=2
+017 HALT

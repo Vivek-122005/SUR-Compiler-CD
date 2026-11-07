@@ -1,0 +1,2 @@
+# 4. Optimizer demo: loop collapsing and rest merging
+repeat 2 { repeat 3 { sa re } } - - -

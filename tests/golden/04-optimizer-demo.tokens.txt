@@ -1,0 +1,14 @@
+REPEAT "repeat" 2:1
+NUMBER "2" 2:8
+LBRACE "{" 2:10
+REPEAT "repeat" 2:12
+NUMBER "3" 2:19
+LBRACE "{" 2:21
+WORD "sa" 2:23
+WORD "re" 2:26
+RBRACE "}" 2:29
+RBRACE "}" 2:31
+DASH "-" 2:33
+DASH "-" 2:35
+DASH "-" 2:37
+EOF "" 3:1

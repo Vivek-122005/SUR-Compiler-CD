@@ -1,0 +1,11 @@
+000 TEMPO 100
+001 LOOP L1 count=2
+002 LOOP L2 count=3
+003 PLAY sa oct=0 beats=1
+004 PLAY re oct=0 beats=1
+005 ENDLOOP L2
+006 ENDLOOP L1
+007 REST beats=1
+008 REST beats=1
+009 REST beats=1
+010 HALT

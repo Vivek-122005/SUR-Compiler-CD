@@ -1,0 +1,12 @@
+000 TEMPO 100
+001 PLAY sa oct=0 beats=1
+002 PLAY re oct=0 beats=1
+003 PLAY ga oct=0 beats=1
+004 PLAY ma oct=0 beats=1
+005 PLAY pa oct=0 beats=1
+006 LOOP L1 count=2
+007 PLAY dha oct=0 beats=1
+008 PLAY ni oct=0 beats=1
+009 PLAY sa oct=+1 beats=1
+010 ENDLOOP L1
+011 HALT

@@ -1,0 +1,71 @@
+{
+  "kind": "Program",
+  "body": [
+    {
+      "kind": "Tempo",
+      "bpm": 90
+    },
+    {
+      "kind": "Repeat",
+      "count": 2,
+      "body": [
+        {
+          "kind": "Note",
+          "name": "dha",
+          "lowerMark": true,
+          "upperMark": false,
+          "beats": 1
+        },
+        {
+          "kind": "Note",
+          "name": "ni",
+          "lowerMark": true,
+          "upperMark": false,
+          "beats": 1
+        },
+        {
+          "kind": "Note",
+          "name": "sa",
+          "lowerMark": false,
+          "upperMark": false,
+          "beats": 2
+        },
+        {
+          "kind": "Rest",
+          "beats": 1
+        },
+        {
+          "kind": "Repeat",
+          "count": 3,
+          "body": [
+            {
+              "kind": "Note",
+              "name": "ga",
+              "lowerMark": false,
+              "upperMark": false,
+              "beats": 1
+            },
+            {
+              "kind": "Note",
+              "name": "re",
+              "lowerMark": false,
+              "upperMark": false,
+              "beats": 1
+            }
+          ]
+        },
+        {
+          "kind": "Note",
+          "name": "sa",
+          "lowerMark": false,
+          "upperMark": false,
+          "beats": 2
+        },
+        {
+          "kind": "Rest",
+          "beats": 2
+        }
+      ]
+    }
+  ]
+}

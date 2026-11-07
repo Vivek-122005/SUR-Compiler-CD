@@ -1,0 +1,43 @@
+{
+  "kind": "Program",
+  "body": [
+    {
+      "kind": "Repeat",
+      "count": 2,
+      "body": [
+        {
+          "kind": "Repeat",
+          "count": 3,
+          "body": [
+            {
+              "kind": "Note",
+              "name": "sa",
+              "lowerMark": false,
+              "upperMark": false,
+              "beats": 1
+            },
+            {
+              "kind": "Note",
+              "name": "re",
+              "lowerMark": false,
+              "upperMark": false,
+              "beats": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "Rest",
+      "beats": 1
+    },
+    {
+      "kind": "Rest",
+      "beats": 1
+    },
+    {
+      "kind": "Rest",
+      "beats": 1
+    }
+  ]
+}

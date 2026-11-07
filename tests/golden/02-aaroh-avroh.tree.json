@@ -1,0 +1,121 @@
+{
+  "kind": "Program",
+  "body": [
+    {
+      "kind": "Tempo",
+      "bpm": 120
+    },
+    {
+      "kind": "Note",
+      "name": "sa",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "re",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ga",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ma",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "pa",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "dha",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ni",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "sa",
+      "lowerMark": false,
+      "upperMark": true,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "sa",
+      "lowerMark": false,
+      "upperMark": true,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ni",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "dha",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "pa",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ma",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "ga",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "re",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 1
+    },
+    {
+      "kind": "Note",
+      "name": "sa",
+      "lowerMark": false,
+      "upperMark": false,
+      "beats": 2
+    }
+  ]
+}

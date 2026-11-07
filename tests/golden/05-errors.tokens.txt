@@ -1,0 +1,15 @@
+WORD "sa" 2:1
+WORD "re" 2:4
+WORD "gaa" 2:7
+WORD "ma" 2:11
+REPEAT "repeat" 3:1
+NUMBER "0" 3:8
+LBRACE "{" 3:10
+WORD "pa" 3:12
+RBRACE "}" 3:15
+REPEAT "repeat" 4:1
+NUMBER "-2" 4:8
+LBRACE "{" 4:11
+WORD "dha" 4:13
+RBRACE "}" 4:17
+EOF "" 5:1

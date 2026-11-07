@@ -1,0 +1,13 @@
+export * from './types';
+export { compile, PHASES, firstFailedPhase } from './compile';
+export type { CompileOptions } from './compile';
+export { lex } from './lexer/lexer';
+export { parse } from './parser/parser';
+export { analyze } from './semantic/analyzer';
+export { semanticChecks } from './semantic/checks';
+export { generateIR } from './ir/generate';
+export { printIR, formatInstr } from './ir/print';
+export { expand, musicSignature } from './ir/expand';
+export { optimize, PASSES, FOLD_PASS } from './optimizer';
+export { generate, noteIds } from './codegen/generate';
+export { formatDiagnostic, sortDiagnostics } from './diagnostics';
